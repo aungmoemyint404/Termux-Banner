@@ -1,0 +1,111 @@
+#!/bin/python2
+#coding=utf-8
+import os,sys,time
+def maung(n):
+    for m in n + '\n':
+        sys.stdout.write(m)
+        sys.stdout.flush()
+        time.sleep(0.001)
+banner = """
+[0m[1;32m                   ▄
+                  ▟█▙
+                 ▟███▙
+                ▟█████▙
+               ▟███████▙
+              ▂▔▀▜██████▙
+             ▟██▅▂▝▜█████▙
+            ▟█████████████▙
+           ▟███████████████▙
+          ▟█████████████████▙
+         ▟███████████████████▙
+        ▟█████████▛▀▀▜████████▙
+       ▟████████▛      ▜███████▙
+      ▟█████████        ████████▙
+     ▟██████████        █████▆▅▄▃▂
+    ▟██████████▛        ▜█████████▙
+   ▟██████▀▀▀              ▀▀██████▙
+  ▟███▀▘                       ▝▀███▙
+ ▟▛▀                               ▀▜▙[0m"""
+os.system("clear")
+maung(banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+os.system("clear")
+print (banner)
+print
